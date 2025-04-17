@@ -1,0 +1,69 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Burj Al Arab Jumeirah",
+      "location": "Jumeirah Beach",
+      "rating": 5,
+      "pricePerNight": 1500,
+      "amenities": [
+        "Private beach",
+        "Luxury spa",
+        "Butler service",
+        "Infinity pool"
+      ],
+      "image": "https://example.com/burj-al-arab.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Atlantis The Palm",
+      "location": "Palm Jumeirah",
+      "rating": 5,
+      "pricePerNight": 900,
+      "amenities": [
+        "Waterpark access",
+        "Aquarium",
+        "Private beach",
+        "Fine dining"
+      ],
+      "image": "https://example.com/atlantis.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Armani Hotel Dubai",
+      "location": "Burj Khalifa",
+      "rating": 5,
+      "pricePerNight": 1200,
+      "amenities": [
+        "Designer interiors",
+        "Spa",
+        "Fine dining",
+        "Direct mall access"
+      ],
+      "image": "https://example.com/armani-hotel.jpg"
+    },
+    {
+      "id": 4,
+      "name": "The Ritz-Carlton Dubai",
+      "location": "JBR Walk",
+      "rating": 5,
+      "pricePerNight": 850,
+      "amenities": [
+        "Luxury spa",
+        "Multiple pools",
+        "Beachfront",
+        "Fine dining"
+      ],
+      "image": "https://example.com/ritz-carlton.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Waldorf Astoria Dubai Palm Jumeirah",
+      "location": "Palm Jumeirah",
+      "rating": 5,
+      "pricePerNight": 950,
+      "amenities": ["Private beach", "Spa", "Tennis courts", "Ocean views"],
+      "image": "https://example.com/waldorf.jpg"
+    }
+  ]
+}
